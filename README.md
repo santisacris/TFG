@@ -3,4 +3,4 @@ Este repositorio contiene todo el código empleado para realizar mi trabajo de f
 
 El código que se proporciona sirve para desplegar recursos y políticas en Azure a través de Terraform y es fácilmente escalable.
 
-La carpeta "Codigo" contiene dos carpetas llamadas "Policies" y "DeployResources". En la primera se encuentra el archivo "policies.tf" que es donde se encuentran todas las políticas de seguridad desplegadas. En la carpeta "DeployResources" se encuentran tres archivos separados ("FrontResources.tf","BackResources.tf", "StorageResources.tf") en los que se despliega la arquitectura divida en las tres capas.
+El archivo "policies.tf" es donde se encuentran todas las políticas de seguridad desplegadas. En los otros tres archivos ("FrontResources.tf","BackResources.tf", "StorageResources.tf") se encuentra el codigo necesario para el despliegue de la arquitectura divida en las tres capas.
