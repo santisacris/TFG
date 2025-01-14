@@ -7,4 +7,4 @@ El archivo "policies.tf" es donde se encuentran todas las políticas de segurida
 
 En el archivo "variables.tf" es donde defines el subscription_id y el resource_group_name como una variable y para poder referenciarlo en "policies.tf". 
 
-Lo últimos que hay que hacer es crearse un archivo llamado "terraform.tfvars" que contenga los valores de las dos variables.
+Lo último que hay que hacer es crearse un archivo llamado "terraform.tfvars" que contenga los valores de las dos variables.
